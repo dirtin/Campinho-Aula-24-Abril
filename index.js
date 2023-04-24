@@ -17,7 +17,6 @@ Desafio
 
 Declara uma constante com valor 3.14
 Declara uma constante com valor "João"
-Declara uma constante que armazena um array
-Gera um erro, pois não é possível reatribuir valor a uma constante
+Atribuia um novo valor à constante PI:
 
 */
