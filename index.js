@@ -1,10 +1,13 @@
 /*
 
-1- Entrou uma nova aluna chamada Bianca na Campinho e precisamos dar boas vindas à ela.
+\\1- Entrou uma nova aluna chamada Bianca na Campinho e precisamos dar boas vindas à ela.
 Crie um programa que fale para ela:
 Olá Bianca, seja bem vinda!
 
-Dica: deixe o nome de Bianca guardada em uma variável.
+const nome = "Bianca";
+console.log("Olá " + nome + ", seja bem vinda!");
+
+\ \Dica: deixe o nome de Bianca guardada em uma variável.
 
 Aqui veremos concatenação. O que é isso?
 Simplesmente juntar dois valores com sinal de +.
@@ -28,6 +31,8 @@ valor da variável com resultado final no console
 
 ====================================================
 */
+const nome = "Bianca";
+console.log("Olá " + nome + ", seja bem vinda!");
 
 /*
 2 - João comecou a trabalhar como desenvolvedor mas precisa de comprar um
