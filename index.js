@@ -31,7 +31,8 @@ valor da variável com resultado final no console
 
 /*
 2 - João comecou a trabalhar como desenvolvedor mas precisa de comprar um
-computador melhor. Achou um no preço de R$4.500,00 que é o valor que pode gastar no momento. Se ele comprar online vai ter um desconto de 20%.
+computador melhor. Achou um no preço de R$4.500,00 que é o valor que pode gastar
+no momento. Se ele comprar online vai ter um desconto de 20%.
 Calcule o preço final que João pagará com o desconto.
 
 Entrada:
@@ -47,8 +48,10 @@ Resultado do preço final no console.
 */
 
 /*
-3- Ada Lovelace criou um novo programa muito importante e tem que compartilhar o usuário e a senha para que seu colega de profissão consiga executar em seu computador.
-Usando a criptografia de Júlio César, onde ele criptografou para cada letra do alfabeto, a senha seria a terceira a partir dela.Exemplo: A seria D (A, B, C,D)
+3- Ada Lovelace criou um novo programa muito importante e tem que compartilhar o 
+usuário e a senha para que seu colega de profissão consiga executar em seu computador.
+Usando a criptografia de Júlio César, onde ele criptografou para cada letra do alfabeto,
+a senha seria a terceira a partir dela.Exemplo: A seria D (A, B, C,D)
 B seria E (B, C,D,E) , C seria F e assim sucessivamente.
 
 obs: a imagem da criptografia está na pasta imagens.
@@ -114,7 +117,10 @@ Entrada de dado:
 Valor inicial do emprestimo: 15.000 R$
 
 Processamento :
-Calcular o juros usando a formula para juros compostos  V = P (1 + r/n)^(nt), onde V é o valor final, P é o principal (ou valor inicial), r é a taxa de juros mensal, n é o número de vezes que os juros são compostos por mês e t é o tempo em meses. 
+Calcular o juros usando a formula para juros compostos  V = P (1 + r/n)^(nt), 
+onde V é o valor final, P é o principal (ou valor inicial), r é a taxa de juros
+ mensal, n é o número de vezes que os juros são compostos por mês e t é o 
+ tempo em meses. 
 
 Saída:
 Exibir para o cliente o valor final do emprestimo e o de cada parcela
