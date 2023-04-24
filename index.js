@@ -51,6 +51,7 @@ Resultado do preço final no console.
 
 ====================================================
 */
+const valor = "4.500,00"
 
 /*
 3- Ada Lovelace criou um novo programa muito importante e tem que compartilhar o 
