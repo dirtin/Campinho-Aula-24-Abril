@@ -28,7 +28,7 @@ valor da variável com resultado final no console
 
 ====================================================
 */
-
+let nome = "Tamara"
 /*
 2 - João comecou a trabalhar como desenvolvedor mas precisa de comprar um
 computador melhor. Achou um no preço de R$4.500,00 que é o valor que pode gastar
