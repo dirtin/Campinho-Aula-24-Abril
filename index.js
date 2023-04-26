@@ -105,6 +105,11 @@ Exibir para o cliente o custo total da conta juntamente com a entrega.
 
 ====================================================
 */
+console.log ("exercicio 4");
+const valorConta = 150;
+const valorFrete = 18;
+const valorTotal = (valorConta + valorFrete);
+console.log ("O valor total é: " + valorTotal );
 
 /*
 5 - "Em qualquer triângulo, a soma das medidas de dois lados é sempre maior que a medida do terceiro."
