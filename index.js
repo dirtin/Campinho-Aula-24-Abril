@@ -52,6 +52,12 @@ Resultado do preço final no console.
 
 ====================================================
 */
+console.log ("exercicio 2")
+const valor = 4500;
+const porcentagem = 20;
+const desconto = (valor * porcentagem) / 100;
+const total = valor - desconto;
+console.log (total);
 
 /*
 3- Ada Lovelace criou um novo programa muito importante e tem que compartilhar o 
