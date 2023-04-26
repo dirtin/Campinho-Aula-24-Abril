@@ -31,6 +31,7 @@ valor da variável com resultado final no console
 
 ====================================================
 */
+console.log("exercicio 1")
 const nome = "Bianca";
 console.log("Olá " + nome + ", seja bem vinda!");
 
@@ -51,7 +52,7 @@ Resultado do preço final no console.
 
 ====================================================
 */
-const valor = "4.500,00"
+console.log("exercicio 2")
 
 /*
 3- Ada Lovelace criou um novo programa muito importante e tem que compartilhar o 
@@ -69,7 +70,7 @@ obs: @ e . não precisam ser codificados.
 
 Segundo passo:
 Decifre a senha abaixo e declare em uma variável senhaDecifrada
-“D VHQKA GR EDQFR H MDYDVFULSW”
+“D VHQKD H MDYDVFULSW”
 
 Terceiro passo:
 Declare em uma variável a concatenação da frase e faça aparecer no console o resultado das variáveis:
@@ -77,6 +78,10 @@ Declare em uma variável a concatenação da frase e faça aparecer no console o
 
 ====================================================
 */
+console.log("exercicio 3")
+const usuarioCifrado = "DGD@JPDLO.FRP";
+const senhaDecifrada = "G YKTNG K PGBGYIXOVZ";
+console.log("O usuário é " + usuarioCifrado + " e a senha é " + senhaDecifrada);
 
 /*
 4 - Elabore um programa que ajude um restaurante a calcular o valor final
@@ -94,7 +99,11 @@ Exibir para o cliente o custo total da conta juntamente com a entrega.
 
 ====================================================
 */
-
+console.log("exercicio 4")
+let valorConta = 150;
+let valorEntrega = 18;
+const custoTotal = (valorConta+valorEntrega);
+console.log("O valor total é: " + custoTotal);
 /*
 5 - "Em qualquer triângulo, a soma das medidas de dois lados é sempre maior que a medida do terceiro."
   
@@ -110,7 +119,16 @@ Saída: Exibir o se pode ou nao ser um triangulo.
 
 ====================================================
 */
-
+console.log("exercicio 5")
+const ladoA = 5
+const ladoB = 10
+const ladoC = 9
+    if (ladoA + ladoB >= ladoC){
+        console.log("Pode ser um triangulo");
+    } else { 
+        console.log("Não pode ser triangulo");
+    }
+      
 /*
 6 - Levando em consideração que existem dois tipos de juros aplicados no mercado 
 fincanceiro e que o mais utilizado é o composto. Elabore um programa que ajude uma
