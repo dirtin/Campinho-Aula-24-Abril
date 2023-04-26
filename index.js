@@ -83,6 +83,10 @@ Declare em uma variável a concatenação da frase e faça aparecer no console o
 
 ====================================================
 */
+console.log("exercicio 3");
+const usuarioCifrado = "DGD@JPDLO.FRP"
+const senhaDecifrada = "G YQTNG K PGBGYIXOVZ"
+console.log("O usuário é " + usuarioCifrado + "e a senha é "+ senhaDecifrada);
 
 
 /*
