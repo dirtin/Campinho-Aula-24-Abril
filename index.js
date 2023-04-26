@@ -28,7 +28,7 @@ valor da variável com resultado final no console
 
 ====================================================
 */
-let nome = "Tamara"
+
 /*
 2 - João comecou a trabalhar como desenvolvedor mas precisa de comprar um
 computador melhor. Achou um no preço de R$4.500,00 que é o valor que pode gastar
@@ -63,7 +63,7 @@ obs: @ e . não precisam ser codificados.
 
 Segundo passo:
 Decifre a senha abaixo e declare em uma variável senhaDecifrada
-“D VHQKA GR EDQFR H MDYDVFULSW”
+“D VHQKD H MDYDVFULSW”
 
 Terceiro passo:
 Declare em uma variável a concatenação da frase e faça aparecer no console o resultado das variáveis:
