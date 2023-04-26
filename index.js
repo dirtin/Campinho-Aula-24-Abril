@@ -126,7 +126,17 @@ Saída: Exibir o se pode ou nao ser um triangulo.
 
 ====================================================
 */
-
+console.log("exercicio 5");
+const ladoA = 5;
+const ladoB = 10;
+const ladoC = 9;
+    if (ladoA + ladoB >= ladoC) {
+        console.log("é um triangulo.")
+        
+    } else {
+        console.log("Não é um triangulo.")
+        
+    }
 /*
 6 - Levando em consideração que existem dois tipos de juros aplicados no mercado 
 fincanceiro e que o mais utilizado é o composto. Elabore um programa que ajude uma
